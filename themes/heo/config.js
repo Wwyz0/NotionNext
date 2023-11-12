@@ -14,7 +14,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '',
   HEO_HERO_TITLE_3: '',
   HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: '',
+  HEO_HERO_TITLE_5: '专注AI领域',
   HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
